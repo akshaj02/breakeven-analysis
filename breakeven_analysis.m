@@ -1,12 +1,3 @@
-%{ 
-Akshaj Murhekar, Ikechukwuka Ofili
-
-November 6 2020
-
-Breakeven Analysis Project, Group 2
-
-ENGR 1250 Section 900
- %}
 %{
 Problem Statement: We have been asked by the zoo perform a breakeven analysis 
 on construction methods, different materials, and determine the expected return 
